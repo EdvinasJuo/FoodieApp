@@ -12,7 +12,7 @@ Foodie is a web application that allows users to search for the nutritional info
 ## Setup
 1. <b>Clone the Repository:</b>
 ```bash
-https://github.com/EdvinasJuo/KcalCalculatorApp.git
+https://github.com/EdvinasJuo/FoodieApp.git
 ```
 2. <b>Install Dependencies:</b>
 ```bash
